@@ -1,125 +1,109 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Hamid%20Ali&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Linux%20Enthusiast%20%7C%20Builder&descAlignY=60&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a120b,50:3c2a21,100:8a6d3b&height=200&section=header&text=Hamid%20Ali&fontSize=58&fontColor=f4ecd8&fontAlignY=38&desc=Developer%20%C2%B7%20Linux%20Enthusiast%20%C2%B7%20Builder&descAlignY=60&descSize=17&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Linux+%26+Bash+Automation+Nerd+%F0%9F%90%A7;Self-hosting+on+Raspberry+Pi+%F0%9F%AB%90;Learning+React+%26+Django+%F0%9F%9A%80;Broke+Linux+11+times...+still+going+%F0%9F%98%84" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=20&duration=3000&pause=800&color=D4A373&center=true&vCenter=true&width=560&height=40&lines=Linux+%26+Bash+Automation;Self-Hosting+on+Raspberry+Pi;Learning+React+%26+Django;Broke+Linux+11+times...+still+going" alt="Typing SVG" />
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=hamidali54&label=Profile+Views&color=1f6feb&style=for-the-badge)](https://github.com/hamidali54)
-[![GitHub followers](https://img.shields.io/github/followers/hamidali54?label=Followers&style=for-the-badge&color=1f6feb)](https://github.com/hamidali54)
+[![Profile Views](https://komarev.com/ghpvc/?username=hamidali54&label=Profile+Views&color=8a6d3b&style=flat-square)](https://github.com/hamidali54)
+[![GitHub followers](https://img.shields.io/github/followers/hamidali54?label=Followers&style=flat-square&color=8a6d3b)](https://github.com/hamidali54)
 
 </div>
 
----
-
-### 🙋‍♂️ About Me
+<br/>
 
 ```text
-🔭  Building       →  NextStepGermany — AI platform for Pakistani students
-🌱  Learning       →  Linux · React · Django · Web Dev
-💬  Ask me about   →  Linux terminal · Raspberry Pi · Bash scripting
-📍  Based in       →  Karachi, Pakistan
-📫  Email          →  hamidalikhoso54@gmail.com
-⚡  Fun fact       →  Broke my Linux install 11 times before I got comfortable 😄
+──────────────────────────────────────────────
+  whoami
+──────────────────────────────────────────────
+  building      →  NextStepGermany — AI platform for Pakistani students
+  learning      →  Linux · React · Django · Web Development
+  ask me about  →  Linux terminal · Raspberry Pi · Bash scripting
+  based in      →  Karachi, Pakistan
+  email         →  hamidalikhoso54@gmail.com
+  fun fact      →  broke my Linux install 11 times before it stuck
+──────────────────────────────────────────────
 ```
 
----
+<br/>
 
-### 🚀 Featured Project
+## Featured Project
 
 <div align="center">
 
-[![NextStepGermany](https://github-readme-stats.vercel.app/api/pin/?username=hamidali54&repo=NextStepGermany&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/hamidali54/NextStepGermany)
+[![NextStepGermany](https://github-readme-stats.vercel.app/api/pin/?username=hamidali54&repo=NextStepGermany&theme=default&hide_border=true&bg_color=1a120b&title_color=d4a373&text_color=e9d8a6&icon_color=bc6c25&show_owner=true)](https://github.com/hamidali54/NextStepGermany)
 
 </div>
 
-<table>
-  <tr>
-    <td width="60px" align="center">🎓</td>
-    <td><strong>NextStepGermany</strong> — AI-powered platform for Pakistani students aiming to study, train (Ausbildung), or settle in Germany</td>
-  </tr>
-  <tr>
-    <td align="center">🧠</td>
-    <td><strong>AI Models used:</strong> Random Forest (LOM Analyzer) · Llama 3.3 70B via Groq (AI Advisor & Scholarships) · TF-IDF + Cosine Similarity (FAQ Chatbot) · Rule-based Expert System (University Finder)</td>
-  </tr>
-  <tr>
-    <td align="center">🛠️</td>
-    <td><strong>Tech stack:</strong> Python · Streamlit · scikit-learn · TextBlob · Groq API · PyPDF2 · JSON</td>
-  </tr>
-  <tr>
-    <td align="center">📦</td>
-    <td><strong>Modules:</strong> University Finder · LOM Analyzer · AI Advisor · Scholarships Finder · FAQ Chatbot · CGPA Converter · Ausbildung Info · Admission Predictor (planned)</td>
-  </tr>
-  <tr>
-    <td align="center">🌍</td>
-    <td><strong>Goal:</strong> One-stop intelligent gateway to guide students through German universities, visa, blocked accounts, IELTS, and cultural integration</td>
-  </tr>
-  <tr>
-    <td align="center">📈</td>
-    <td><strong>Status:</strong> Active development — Neural Admission Predictor, DAAD API integration, and Urdu language support planned</td>
-  </tr>
-</table>
+**NextStepGermany** — an AI-powered platform guiding Pakistani students through studying, Ausbildung, or settling in Germany.
 
----
+| | |
+|---|---|
+| **AI Models** | Random Forest (LOM Analyzer) · Llama 3.3 70B via Groq (AI Advisor & Scholarships) · TF-IDF + Cosine Similarity (FAQ Chatbot) · Rule-based Expert System (University Finder) |
+| **Tech Stack** | Python · Streamlit · scikit-learn · TextBlob · Groq API · PyPDF2 · JSON |
+| **Modules** | University Finder · LOM Analyzer · AI Advisor · Scholarships Finder · FAQ Chatbot · CGPA Converter · Ausbildung Info · Admission Predictor *(planned)* |
+| **Goal** | One-stop intelligent gateway for German universities, visas, blocked accounts, IELTS, and cultural integration |
+| **Status** | Active development — Neural Admission Predictor, DAAD API integration, and Urdu language support planned |
 
-### 🛠️ Languages & Tools
+<br/>
+
+## Languages & Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django" title="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" title="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash" title="Bash"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40" alt="Raspberry Pi" title="Raspberry Pi"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38" height="38" alt="Python" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="38" height="38" alt="Django" title="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38" height="38" alt="JavaScript" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38" height="38" alt="React" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="38" height="38" alt="HTML5" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="38" height="38" alt="CSS3" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="38" height="38" alt="Linux" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="38" height="38" alt="Bash" title="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="38" height="38" alt="Raspberry Pi" title="Raspberry Pi"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" height="38" alt="Git" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="38" height="38" alt="GitHub" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="38" height="38" alt="VS Code" title="VS Code"/>
 </p>
 
----
+<br/>
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamidali54&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidali54&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
-</p>
+## GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hamidali54&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hamidali54&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=1a120b&title_color=d4a373&text_color=e9d8a6&icon_color=bc6c25&ring_color=8a6d3b" height="175" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidali54&layout=compact&hide_border=true&langs_count=8&bg_color=1a120b&title_color=d4a373&text_color=e9d8a6" height="175" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hamidali54&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
+  <img src="https://streak-stats.demolab.com?user=hamidali54&hide_border=true&background=1A120B&ring=8A6D3B&fire=D4A373&currStreakLabel=D4A373&sideLabels=E9D8A6&currStreakNum=F4ECD8&sideNums=F4ECD8&dates=BC6C25&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 </p>
-
----
-
-### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamidali54&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=hamidali54&theme=matrix&no-frame=true&row=1&column=6&margin-w=8" alt="Trophies"/>
 </p>
 
----
+<br/>
 
-### 🔗 Connect With Me
+## Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamidali54&hide_border=true&bg_color=1A120B&color=D4A373&line=BC6C25&point=F4ECD8&area=true&area_color=8A6D3B" alt="Activity Graph"/>
+</p>
+
+<br/>
+
+## Connect
 
 <p align="left">
   <a href="https://linkedin.com/in/hamid-ali-khoso/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-3c2a21?style=for-the-badge&logo=linkedin&logoColor=D4A373" />
   </a>
   <a href="mailto:hamidalikhoso54@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-3c2a21?style=for-the-badge&logo=gmail&logoColor=D4A373" />
   </a>
   <a href="https://github.com/hamidali54">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-3c2a21?style=for-the-badge&logo=github&logoColor=D4A373" />
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:8a6d3b,50:3c2a21,100:1a120b&height=100&section=footer" />
